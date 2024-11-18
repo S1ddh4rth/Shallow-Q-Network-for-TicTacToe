@@ -1,0 +1,50 @@
+TicTacToe Test Results
+
+After training at smartness 0.00:
+Outcomes: [-1, 1, -1, -1, 1, -1, 0, 1, -1, 0, 0, 0, 0, -1, 1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 1, -1, -1, -1, -1]
+Wins: 5, Draws: 6, Losses: 19
+
+After training at smartness 0.10:
+Outcomes: [-1, -1, 1, -1, -1, -1, 1, -1, 0, 0, -1, 1, 0, 1, 1, -1, 1, -1, -1, -1, -1, -1, 0, -1, 0, -1, 1, -1, -1, -1]
+Wins: 7, Draws: 5, Losses: 18
+
+After training at smartness 0.20:
+Outcomes: [-1, 0, 1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, 1, -1, -1, 0, 1, -1, -1, -1, 0, -1, -1, -1, 1, 1, -1, -1, -1]
+Wins: 5, Draws: 6, Losses: 19
+
+After training at smartness 0.30:
+Outcomes: [-1, 1, -1, -1, -1, 1, 1, 0, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, 0, -1, -1, -1, -1, -1, 0, 0, 0, 1, 0]
+Wins: 4, Draws: 7, Losses: 19
+
+After training at smartness 0.40:
+Outcomes: [-1, -1, -1, 1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 0, -1, 1, 0, -1, 0, -1, 1, -1, -1, 1, 1, 1, -1, 0, -1, -1]
+Wins: 8, Draws: 4, Losses: 18
+
+After training at smartness 0.50:
+Outcomes: [-1, 1, 1, -1, 0, -1, -1, 1, -1, -1, -1, 1, -1, 1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1]
+Wins: 6, Draws: 2, Losses: 22
+
+After training at smartness 0.60:
+Outcomes: [-1, 1, -1, 0, -1, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, 1, 0, -1, -1, -1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1]
+Wins: 5, Draws: 4, Losses: 21
+
+After training at smartness 0.70:
+Outcomes: [-1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, 0]
+Wins: 3, Draws: 2, Losses: 25
+
+After training at smartness 0.80:
+Outcomes: [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Wins: 0, Draws: 1, Losses: 29
+
+After training at smartness 0.90:
+Outcomes: [0, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Wins: 1, Draws: 2, Losses: 27
+
+Final test at smartness 0.00:
+Outcomes: [1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1]
+Wins: 10, Draws: 0, Losses: 20
+
+Final test at smartness 0.80:
+Outcomes: [-1, -1, 1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+Wins: 1, Draws: 1, Losses: 28
+
